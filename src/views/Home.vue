@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1>Welcome my pwa page</h1>
-    <router-link to="/login"></router-link>
+    <router-link to="/login">Link to login page</router-link>
   </div>
 </template>
 
